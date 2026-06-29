@@ -4,5 +4,5 @@
 
 > 数字 和 模拟
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 [Get Started](README.md)
